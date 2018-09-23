@@ -4,9 +4,9 @@ layout: default
 
 <div class="section advicecontent redlist" id="issue">
 
-  {% include share.html %}
+  {%- include share.html -%}
   
-  {% if page.img %}<p class="center"><img src="{{page.img}}" class="issue"></p>{% endif %}
+  {%- if page.img -%}<p class="center"><img src="{{page.img}}" class="issue"></p>{%- endif -%}
   
   {{ content }}
 

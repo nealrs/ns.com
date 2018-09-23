@@ -10,15 +10,15 @@ title: Neal's Career Advice for Hackers
 <p>I'm no expert, but I've worked at big companies &amp; startups, switched careers, been laid off, ghosted by recruiters, asked to work for free, and bombed whiteboard interviews.</p>
 
 <div class="section advicecontent" id="backissues">
-{% for post in site.posts %}
-  {% assign currentdate = post.date | date: " %B %Y" %}
-  {% if currentdate != date %}
-    {% unless forloop.first %}</ul>{% endunless %}
+{%- for post in site.posts -%}
+  {%- assign currentdate = post.date | date: " %B %Y" -%}
+  {%- if currentdate != date -%}
+    {%- unless forloop.first -%}</ul>{%- endunless -%}
     <h3 class="headline" id="y{{post.date | date: '%Y'}}">{{ currentdate }}</h3>
     <ul>
-    {% assign date = currentdate %}
-  {% endif %}
+    {%- assign date = currentdate -%}
+  {%- endif -%}
     <li><a href="{{ site.baseurl }}{{post.url}}" target="_new">{{post.description | improve}}</a></li>
-  {% if forloop.last %}</ul>{% endif %}
-{% endfor %}
+  {%- if forloop.last -%}</ul>{%- endif -%}
+{%- endfor -%}
 </div>

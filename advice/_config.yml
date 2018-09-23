@@ -1,0 +1,34 @@
+# Dependencies
+highligher:       pygments
+markdown: redcarpet
+redcarpet:
+  extensions: ['smart', 'strikethrough', 'jekyll-typogrify']
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Neal's Career Advice for Hackers
+description:      Actionable and non-patronizing career advice for software developers
+baseurl:          /advice
+url:              https://nealshyam.com
+siteurl:          "https://nealshyam.com/advice"
+image:            https://nealshyam.com/img/headshot2.png
+
+author:
+  name:           'Neal Shyam'
+  url:            https://nealshyam.com
+
+
+#gems: [jekyll-paginate]
+#paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/nealrs/ns.com/
+
+timezone:         America/New_York
+TZ:               America/New_York
+future: true

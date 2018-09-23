@@ -1,0 +1,24 @@
+---
+layout: default
+title: Neal's Career Advice for Hackers
+---
+
+<p><span class="wave">👋</span> Hi, I'm Neal. I write <a href="https://devpost.com?utm_source=nealshyam" id="newslettersignup" target="_new">Devpost</a>'s weekly newsletter to an audience of over 200,000 hackers. <a href="{{site.baseurl}}/rss.xml"><i class="fas fa-rss-square"></i></a></p>
+
+<p>In addition to the best hackathons online &amp; IRL, I try to give developers <strong>actionable &amp; non-patronizing</strong> advice.</p>
+
+<p>I'm no career expert, but my <a href="{{site.author.url}}#experience" target="_new">résumé</a> includes big companies &amp; startups. I've also switched careers, gotten laid off, been ghosted by recruiters, asked to work for free, and bombed interviews.</p>
+
+<div class="section advicecontent" id="backissues">
+{% for post in site.posts %}
+  {% assign currentdate = post.date | date: " %B %Y" %}
+  {% if currentdate != date %}
+    {% unless forloop.first %}</ul>{% endunless %}
+    <h3 class="headline" id="y{{post.date | date: '%Y'}}">{{ currentdate }}</h3>
+    <ul>
+    {% assign date = currentdate %}
+  {% endif %}
+    <li><a href="{{ site.baseurl }}{{post.url}}" target="_new">{{post.description}}</a></li>
+  {% if forloop.last %}</ul>{% endif %}
+{% endfor %}
+</div>

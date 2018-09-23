@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  {% include head.html %}
+  
+  <body>
+    <div class="main">
+      <div id="top">
+        {% if page.title == site.title %}
+        <img src="{{ site.baseurl }}/img/headshot2.png" class="headshot">
+        {% endif %}
+        <h2 class="headline">Hacker Career Advice</h2>
+        {% if page.description %}<h3>{{page.title | titlecase }}</h3>{% endif %}
+      </div>
+      {{ content | improve}}
+
+      <hr>
+      <p>&copy; {{ site.time | date: '%Y' }}&nbsp;<a href="{{site.author.url}}">Neal Shyam</a></p>
+    </div>
+  </body>
+</html>

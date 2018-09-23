@@ -4,7 +4,7 @@ layout: post
 title: "Comparisons Are For Pull Requests"
 date: 2018-09-06 10:00:00
 img: https://media.giphy.com/media/LMhuP91QIPo52/giphy.gif
-description: "You're a person, not a Docker container, so your path to success won't be the same as anybody else's"
+description: "You're a person, not a Docker container; your path to success won't be the same as anybody else's"
 ---
 
 Hey yall, I hope you had a wonderful Labor Day weekend. At my family BBQ we had a full spread: grilled meats, sweet corn, juicy watermelon, and a very generous helping of **parents comparing their children.** 😒

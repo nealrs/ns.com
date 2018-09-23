@@ -9,7 +9,7 @@
         {%- if page.title == site.title -%}
         <img src="{{ site.baseurl }}/img/headshot2.png" class="headshot">
         {%- endif -%}
-        <h2 class="headline">Hacker Career Advice</h2>
+        <a href="{{ site.baseurl }}"><h2 class="headline">Hacker Career Advice</h2></a>
         {%- if page.description -%}<h3>{{page.title | titlecase | improve}}</h3>{%- endif -%}
       </div>
       {{ content | improve}}

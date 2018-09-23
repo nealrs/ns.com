@@ -1,15 +1,15 @@
 ---
 layout: post
 
-title: "Change It Up"
+title: "Changing Careers"
 date: 2018-08-23 10:00:00
 img: https://media1.giphy.com/media/OwL4cYLOxT8t2/giphy.gif
-description: "A story about switching careers &amp; enjoying your time at school"
+description: "A personal story about switching careers"
 ---
 
 Back in the '60s, my pops graduated from the Railway College in Jamalpur, India and began his _very short career_ as a railway engineer. While his peers enjoyed riding the footboards, inspecting rights of way, and traveling in their private train cars&mdash;he found himself underwhelmed.
 
-I'm not sure that he was looking for a _complete_ career change, but he definitely aspired to more. So, he took a wild chance and applied to grad school in the U.S, ending up at Carnegie Mellon. In Pittsburgh, he discovered his passion for economics & accounting, an opportunity to apply his engineering skills, and a path toward a successful & fulfilling career in academia.
+I'm not sure that he was looking for a _complete_ career change, but he definitely aspired to more. So, he took a wild chance and applied to grad school in the U.S., landing at Carnegie Mellon. In Pittsburgh, he discovered his passion for economics & accounting, an opportunity to apply his engineering skills, and a path toward a successful &amp; fulfilling career in academia.
 
 I've never seen my pops upset about work or dreading another day at the office. And he doesn't look back at what could have been, even though many of his old classmates are now senior leaders in the Indian Railway system.
 

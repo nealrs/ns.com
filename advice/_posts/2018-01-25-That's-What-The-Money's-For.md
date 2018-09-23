@@ -7,7 +7,7 @@ img: https://i.imgur.com/7Lp0njr.gif
 description: "If you want to get paid more, prove that you're delivering value"
 ---
 
-Unsatisfied with your paycheck? [Tom Lianza's advice]() is to look for ways to add value to whatever makes your business money: customers.
+Unsatisfied with your paycheck? [Tom Lianza's advice](https://lianza.org/blog/2018/01/21/fellow-engineers-this-is-where-your-money-comes-from/) is to look for ways to add value to whatever makes your business money: customers.
 
 I agree. And I like how it encourages developers to consider & engage with other disciplines & people within their business.
 

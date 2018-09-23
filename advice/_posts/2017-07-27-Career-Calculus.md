@@ -15,7 +15,7 @@ And while we're making math analogies, consider the humble saddle point. From on
 
 Either way, standing still is a bad look. Take a risk, pick a new direction, and keep working towards your global max.
 
-<p class="center"><a href="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Saddle_point.svg/600px-Saddle_point.svg.png"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Saddle_point.svg/600px-Saddle_point.svg.png" style="max-width:50%;"></a></p>
+<p class="center"><a href="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Saddle_point.svg/600px-Saddle_point.svg.png"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Saddle_point.svg/600px-Saddle_point.svg.png" class="inlineimg"></a></p>
 
 Saddle points also illustrate the [opportunity cost](http://www.mikewchan.com/2016/02/opportunity-cost-career/) of following one path over another&mdash;like going to grad school instead of taking a job right after graduation.
 

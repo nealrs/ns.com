@@ -67,6 +67,10 @@ li{
     padding-right:7px;
 }*/
 
+
+.inlineimg{
+  max-width:50%;
+}
 .highlight{
   background-color: #FF4136;
   padding:4px;

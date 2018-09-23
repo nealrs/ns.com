@@ -3,7 +3,7 @@ layout: default
 title: Neal's Career Advice for Hackers
 ---
 
-<p><span class="wave">👋</span> Hi, I'm Neal. I write <a href="https://devpost.com?utm_source=nealshyam" id="newslettersignup" target="_new">Devpost</a>'s weekly newsletter to an audience of over 200,000 hackers. <a href="{{site.baseurl}}/rss.xml"><i class="fas fa-rss-square"></i></a></p>
+<p><span class="wave">👋</span> Hi, I'm Neal. I write <a href="https://devpost.com?utm_source=nealshyam" id="newslettersignup" target="_new">Devpost</a>'s weekly newsletter to an audience of over 200,000 hackers. <a href="{{site.baseurl}}/feed.xml"><i class="fas fa-rss-square"></i></a></p>
 
 <p>In addition to the best online &amp; local hackathons, I try to give developers <strong>actionable &amp; non-patronizing</strong> career advice.</p>
 
@@ -18,7 +18,7 @@ title: Neal's Career Advice for Hackers
     <ul>
     {% assign date = currentdate %}
   {% endif %}
-    <li><a href="{{ site.baseurl }}{{post.url}}" target="_new">{{post.description}}</a></li>
+    <li><a href="{{ site.baseurl }}{{post.url}}" target="_new">{{post.description | improve}}</a></li>
   {% if forloop.last %}</ul>{% endif %}
 {% endfor %}
 </div>

@@ -9,7 +9,7 @@ description: "Focus too much on incremental gains and you'll miss the truly tran
 
 Optimization means "making the best or most effective use of a situation or resource." You hear it a lot at startups and in software development, because capital (human, physical, and financial) is limited.
 
-It's a good goal&mdash;but beware [local maxima](). Focusing too much on incremental gains means you can miss out on the big, transformative ones. That goes for your code and your career. So if you feel like you've peaked, explore something new and expand your view.
+It's a good goal&mdash;but beware [local maxima](https://www.nateliason.com/blog/local-maxima). Focusing too much on incremental gains means you can miss out on the big, transformative ones. That goes for your code and your career. So if you feel like you've peaked, explore something new and expand your view.
 
 And while we're making math analogies, consider the humble saddle point. From one angle it looks like a peak (careful, it could be local!) and from another, it's rock bottom (with nowhere to go but up). 
 

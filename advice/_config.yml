@@ -2,7 +2,7 @@
 highligher:       pygments
 markdown: redcarpet
 redcarpet:
-  extensions: ['smart', 'strikethrough', 'jekyll-typogrify']
+  extensions: ['smart', 'strikethrough']
 
 # Permalinks
 permalink:        pretty
@@ -18,10 +18,11 @@ image:            https://nealshyam.com/img/headshot2.png
 author:
   name:           'Neal Shyam'
   url:            https://nealshyam.com
+  email:          neal@devpost.com
+  twitter:        nealrs
 
 
-#gems: [jekyll-paginate]
-#paginate:         5
+plugins: ['jekyll-typogrify']
 
 # Custom vars
 version:          2.1.0

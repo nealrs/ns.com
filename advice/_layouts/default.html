@@ -10,7 +10,7 @@
         <img src="{{ site.baseurl }}/img/headshot2.png" class="headshot">
         {% endif %}
         <h2 class="headline">Hacker Career Advice</h2>
-        {% if page.description %}<h3>{{page.title | titlecase }}</h3>{% endif %}
+        {% if page.description %}<h3>{{page.title | titlecase | improve}}</h3>{% endif %}
       </div>
       {{ content | improve}}
 

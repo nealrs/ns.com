@@ -5,6 +5,7 @@ title: "Department Differences"
 date: 2018-09-13 10:00:00
 img: https://media.giphy.com/media/w0CPP48tkM6Ag/giphy.gif
 description: "Developers work in sprints, but your colleagues operate on different time scales"
+categories: [work]
 ---
 
 In Agile software development, engineers think of time in terms of points &amp; 1–2 week sprints. How many points is this API going to take? Are we halfway through this sprint yet? It's a useful framework for setting goals and maximizing your time.

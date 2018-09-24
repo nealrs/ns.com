@@ -5,7 +5,7 @@ redcarpet:
   extensions: ['smart', 'strikethrough']
 
 # Permalinks
-permalink:        pretty
+permalink:        '/:year/:month/:day/:title/'
 
 # Setup
 title:            Neal's Career Advice for Hackers

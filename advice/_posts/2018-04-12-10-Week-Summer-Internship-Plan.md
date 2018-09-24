@@ -5,6 +5,7 @@ title: "10 Week Summer Internship Plan"
 date: 2018-04-12 10:00:00
 img: https://media.giphy.com/media/kZm9Nde85so4U/giphy.gif
 description: "A 10 Week Plan to get the most out of your summer internship"
+categories: [internships]
 ---
 
 Most summer internships run about 10 weeks. And while that might seem a like a long time, it's really not.

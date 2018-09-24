@@ -5,6 +5,7 @@ title: "Lessons in Career Calculus"
 date: 2017-07-27 10:00:00
 img: http://www.90percentofeverything.com/wp-content/uploads/2011/01/locmax.gif
 description: "Focus too much on incremental gains and you'll miss the truly transformative ones"
+categories: [work, productivity]
 ---
 
 Optimization means "making the best or most effective use of a situation or resource." You hear it a lot at startups and in software development, because capital (human, physical, and financial) is limited.

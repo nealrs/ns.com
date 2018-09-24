@@ -5,6 +5,7 @@ title: "Knock With Your Elbows"
 date: 2018-05-03 10:00:00
 img: https://media2.giphy.com/media/12S8HFVksHAg92/giphy.gif
 description: "A new hire pro tip from the New York Fire Department"
+categories: [work]
 ---
 
 At fire houses in New York City, there's an unwritten rule for new firefighters: on your first day, “knock with your elbows.” In other words, don't come empty handed. It's good advice, whether you're have to trust your life to your new coworkers or you're starting a summer internship doing front-end development.

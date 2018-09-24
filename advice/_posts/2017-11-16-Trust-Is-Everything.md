@@ -5,6 +5,7 @@ title: "Trust Is Everything"
 date: 2017-11-16 10:00:00
 img: https://media.giphy.com/media/JvgfPEQa9gPmg/giphy.gif
 description: "Everything you do as a developer requires trust"
+categories: [work]
 ---
 
 **Trust**. Everything you do as a developer requires trust. You have to trust your tests, your tools, your SaaS providers, your colleagues, and your management.

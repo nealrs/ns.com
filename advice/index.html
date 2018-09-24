@@ -9,6 +9,8 @@ title: Neal's Career Advice for Hackers
 
 <p>I'm no expert, but I've worked at big companies &amp; startups, switched careers, been laid off, ghosted by recruiters, asked to work for free, and bombed whiteboard interviews.</p>
 
+<p>Sound familiar? <a href="{{site.baseurl}}/categories">Posts by category</a></p>
+
 <div class="section advicecontent" id="backissues">
 {%- for post in site.posts -%}
   {%- assign currentdate = post.date | date: " %B %Y" -%}
@@ -18,7 +20,7 @@ title: Neal's Career Advice for Hackers
     <ul>
     {%- assign date = currentdate -%}
   {%- endif -%}
-    <li><a href="{{ site.baseurl }}{{post.url}}" target="_new">{{post.description | improve}}</a></li>
+    <li><a href="{{ site.baseurl }}{{post.url}}">{{post.description | improve}}</a></li>
   {%- if forloop.last -%}</ul>{%- endif -%}
 {%- endfor -%}
 </div>

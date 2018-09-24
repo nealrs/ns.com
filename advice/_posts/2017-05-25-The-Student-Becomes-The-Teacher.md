@@ -5,6 +5,7 @@ title: "The Student Becomes the Teacher"
 date: 2017-05-25 10:00:00
 img: https://media1.giphy.com/media/12Lt1KWHowKtKo/giphy.gif
 description: "After graduation, education is pull instead of push"
+categories: [education]
 ---
 
 Pomp. Circumstance. Tassels. Mortarboards. Congratulations class of 2017, you did it!

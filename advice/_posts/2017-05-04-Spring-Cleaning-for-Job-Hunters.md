@@ -5,6 +5,7 @@ title: "Spring Cleaning for Job Hunters"
 date: 2017-05-04 10:00:00
 img: https://media.giphy.com/media/OtrOzfQXA5vhK/giphy.gif
 description: "Freshen up your résumé, portfolio, and network this weekend"
+categories: [job hunting]
 ---
 
 Instead of binging on trash TV this weekend, freshen up your job search:

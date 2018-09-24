@@ -5,6 +5,7 @@ title: "Love Yourself"
 date: 2018-02-08 10:00:00
 img: https://i.imgur.com/eCZeuB6.gif
 description: "The most important love, is the love you give yourself"
+categories: [wellness]
 ---
 
 Valentine's Day isn't about roses, chocolate, or candlelit dinners. It's about celebrating _love_. And the most important love of all, is the love you give yourself.

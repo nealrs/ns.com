@@ -5,6 +5,7 @@ title: "Reality Bytes"
 date: 2018-07-12 10:00:00
 img: https://media.giphy.com/media/5auJV0c1XBmpO/giphy.gif
 description: "Get back into work mode after your vacation"
+categories: [work, productivity]
 ---
 
 Whether you go on vacation for 3 days or 3 weeks, it's always tough to get back into work mode.

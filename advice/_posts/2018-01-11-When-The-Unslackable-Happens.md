@@ -5,6 +5,7 @@ title: "When The Unslackable Happens"
 date: 2018-01-11 10:00:00
 img: https://i.imgur.com/uKCw44F.gif
 description: "How resilient is your company to a major service outage?"
+categories: [work]
 ---
 
 On Tuesday, Slack went down and at first, we made all the [usual jokes](https://twitter.com/thatswattsup/status/950810027077480448). But it got us thinking: how resilient is your company to a major service outage?

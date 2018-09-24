@@ -5,6 +5,7 @@ title: "Bartleby, the Code Scrivener"
 date: 2017-08-31 10:00:00
 img: https://media.giphy.com/media/wofftnAdDtx4s/giphy.gif
 description: "Not everything you work on is going to be 'high' technology, and that's OK"
+categories: [work]
 ---
 
 In my opinion, Herman Melville's short story, [_Bartleby, the Scrivener_](http://www.bartleby.com/129/), should be required reading for software developers&mdash;especially those stepping into their first jobs.

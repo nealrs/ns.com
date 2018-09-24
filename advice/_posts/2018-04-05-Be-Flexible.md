@@ -5,6 +5,7 @@ title: "Be Flexible"
 date: 2018-04-05 10:00:00
 img: https://media.giphy.com/media/3ohzdDSUkCqOPdYw5W/giphy.gif
 description: "Don't pigeonhole yourself to one tech, language, or job role"
+categories: [work]
 ---
 
 A lot of developers rigidly bill themselves as a specific _type_ of developer. As in "I'm a JavaScript developer" or "I'm a front-end dev" or "I'm full-stack X, Y, or Z."

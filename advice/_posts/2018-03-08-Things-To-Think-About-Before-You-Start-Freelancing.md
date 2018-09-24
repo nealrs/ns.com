@@ -5,6 +5,7 @@ title: "Before You Start Freelancing"
 date: 2018-03-08 10:00:00
 img: https://i.imgur.com/S2zxhkT.gif
 description: "Things to think about before you start freelancing"
+categories: [freelancing, work]
 ---
 
 In 1789, Ben Franklin wrote that “nothing can be said to be certain, except death and taxes.” Of course, he wasn't a software developer.

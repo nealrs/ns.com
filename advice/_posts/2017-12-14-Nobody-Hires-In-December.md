@@ -5,6 +5,7 @@ title: "Nobody Hires in December"
 date: 2017-12-14 10:00:00
 img: https://i.imgur.com/sBDcqnr.gif
 description: "Nobody hires in December, but you can lay the groundwork for next year"
+categories: [job hunting]
 ---
 
 Getting a job isn't easy, especially in December when your inbox has more Out-of-Office responses than actual emails. But don't fret, because your persistence will pay off!

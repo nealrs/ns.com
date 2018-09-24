@@ -5,6 +5,7 @@ title: "Technical Interview Toolkit"
 date: 2017-07-20 10:00:00
 img: https://media.giphy.com/media/p35XvxQf7kJk4/giphy.gif
 description: "Practice your whiteboard test skills with the Battleship problem"
+categories: [job hunting]
 ---
 
 Whether it's an asinine and unrealistic demand ("invert this binary tree") or the terrifying prospect of being judged on the spot&mdash;technical interviews aren't very popular amongst job hunters.

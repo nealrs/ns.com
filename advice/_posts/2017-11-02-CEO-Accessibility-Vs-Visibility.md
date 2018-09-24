@@ -5,6 +5,7 @@ title: "CEO Accessibility vs. Visibility"
 date: 2017-11-02 10:00:00
 img: https://media.giphy.com/media/3o7TKUGccxlaQqdgRO/giphy.gif
 description: "CEO Accessibility vs. Visibility"
+categories: [work, job hunting]
 ---
 
 Last weekend, some guy caught a case of [nerd rage](https://twitter.com/baekdal/status/924312294439444480) over Google's hamburger emoji. And less than 13 hours later, CEO Sundar Pichai [promised](https://twitter.com/sundarpichai/status/924487551372615680) to drop everything else and address it forthwith. How's that for service?

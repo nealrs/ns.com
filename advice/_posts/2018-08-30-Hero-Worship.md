@@ -5,6 +5,7 @@ title: "An end to hero worship"
 date: 2018-08-30 10:00:00
 img: https://i.imgur.com/mEZoShQ.gif
 description: "Idolizing Steve Jobs won't get you a job, but networking will"
+categories: [job hunting]
 ---
 
 They say you should never meet your heroes, because they'll just disappoint you. I don't know if that's true, but I do think our culture fetishizes hero worship and Horatio Alger stories about "making it big." The thing is, idolizing Steve Jobs & Elon Musk isn't going to help you get a job.

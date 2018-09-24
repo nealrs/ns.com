@@ -5,6 +5,7 @@ title: "Show Some Initiative"
 date: 2017-10-19 10:00:00
 img: https://i.imgur.com/feasjuo.gif
 description: "How to demonstrate initiative"
+categories: [job hunting]
 ---
 
 “Proactive,” “self-starter,” “scrappy,” “internally motivated,” “hacker ethos,” you see these phrases in a lot of job descriptions. But, how do you actually demonstrate this kind of initiative during your job search?

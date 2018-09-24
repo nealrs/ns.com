@@ -5,6 +5,7 @@ title: "Reactive vs. Proactive Job Hunting"
 date: 2017-06-29 10:00:00
 img: https://media.giphy.com/media/zaezT79s3Ng7C/giphy.gif
 description: "You can wait around for recruiters to contact you, or you can be proactive and pursue the dream job you want"
+categories: [job hunting]
 ---
 
 There are two ways to look for a job. You can be _reactive_, waiting for recruiters to find you. Or you can be _proactive_, seeking out opportunities and controlling your own destiny.

@@ -5,6 +5,7 @@ title: "Old Reliable Tech"
 date: 2017-08-27 10:00:00
 img: https://media.giphy.com/media/rkg5ivtf1pMcM/giphy.gif
 description: "Why is a modern tech company using an outdated stack?"
+categories: [work]
 ---
 
 During a meetup in New York City, we learned that until recently, a certain well known publisher of listicles and viral cooking videos used Perl on the back end. Not Node, RoR, Python, or even PHP, just straight up Perl. I mean cgi-bin, web counter, and GeoCities-era Perl.

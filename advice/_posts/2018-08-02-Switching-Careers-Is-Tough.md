@@ -5,6 +5,7 @@ title: "Switching Careers Is Tough"
 date: 2018-08-02 10:00:00
 img: https://i.imgur.com/qcQ8CsH.gif
 description: "Your past expertise can be an advtange during a career change"
+categories: [career switching, job hunting]
 ---
 
 Finding a new gig is hard. Switching careers is harder and the odds are stacked against you:

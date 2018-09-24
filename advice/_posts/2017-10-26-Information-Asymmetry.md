@@ -5,6 +5,7 @@ title: "Information Asymmetry"
 date: 2017-10-26 10:00:00
 img: https://media2.giphy.com/media/12OyhOh3vqSnhS/giphy.gif
 description: "Use information asymmetry to your advantage"
+categories: [job hunting]
 ---
 
 ICYMI, it's now illegal for employers in [New York](https://www.usnews.com/news/best-states/new-york/articles/2017-05-05/nyc-bans-employers-from-asking-salary-history-of-applicants) and [California](http://m.sfgate.com/business/networth/article/New-law-bans-California-employers-from-asking-12274431.php) to ask how much money you made at your previous job.

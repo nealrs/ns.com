@@ -5,6 +5,7 @@ title: "Dress Code For Success"
 date: 2018-02-22 10:00:00
 img: https://media.giphy.com/media/txRHQRe9XznBS/giphy.gif
 description: "What should you wear to a job interview?"
+categories: [job hunting]
 ---
 
 What should you wear to a job interview? Well, much like "what does business casual mean?" there's no one true answer.

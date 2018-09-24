@@ -5,6 +5,7 @@ title: "The Best Email Ever"
 date: 2018-07-05 10:00:00
 img: 
 description: "A masterclass in job hunting from a high schooler"
+categories: [job hunting]
 ---
 I got this email from my building's Google group and I have to share it with you:
 

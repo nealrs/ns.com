@@ -5,6 +5,7 @@ title: "How To Suggest New Product Features"
 date: 2018-03-29 10:00:00
 img: https://media.giphy.com/media/Pmo2gEVRJARIQ/giphy.gif
 description: "How To Suggest New Product Features"
+categories: [work]
 ---
 
 Let's say you have a new product idea that will solve millions of problems and save jillions of dollars. That's awesome! But, before you start coding, you need to get buy-in from your Product team and other stakeholders:

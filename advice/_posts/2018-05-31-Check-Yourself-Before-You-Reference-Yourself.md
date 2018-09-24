@@ -5,6 +5,7 @@ title: "Check Yourself Before You Reference Yourself"
 date: 2018-05-31 10:00:00
 img: https://media.giphy.com/media/JVdF14CQQH7gs/giphy.gif
 description: "Do's and Don'ts of professional references"
+categories: [job hunting]
 ---
 
 After interviews, whiteboarding, and fizzbuzz, a hiring manager may ask you for _references_. This is usually the final step before an offer and suggests that the company wants to hire you.

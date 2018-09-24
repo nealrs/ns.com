@@ -5,6 +5,7 @@ title: "Don't Give Up On Your Goals"
 date: 2018-02-15 10:00:00
 img: https://media.giphy.com/media/l0HlLFLUDkxS2Uks8/giphy.gif
 description: "Setting goals is hard, but you got this!"
+categories: [wellness]
 ---
 
 How are your New Year's resolutions coming along? Still hitting the gym and eating your veggies? Yeah, I didn't think so.

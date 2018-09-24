@@ -5,6 +5,7 @@ title: "Big N' Beige"
 date: 2018-06-28 10:00:00
 img: https://media.giphy.com/media/40Jl9Gl5qJY52/giphy.gif
 description: "Don't judge a company by its cubicles"
+categories: [job hunting]
 ---
 
 At Caterpillar's Tech HQ in Mossville Illinois, there used to be enormous office building which sat over 3,000 people. Building AC was so large that it took 20 minutes to get from your car to the front door, the main cafeteria had 20 microwaves (which were always full), and each massive hallway doubled as a tornado shelter.

@@ -5,6 +5,7 @@ title: "I've Fallen and I Can't Get Up"
 date: 2018-08-09 10:00:00
 img: https://media.giphy.com/media/20gLsclYixMqs/giphy.gif
 description: "A primer on workers' compensation"
+categories: [work, wellness, internships]
 ---
 
 As a software developer, the most common workplace injuries you'll face are Carpal Tunnel Syndrome & Tendonitis. The cause? Probably too much tippy-tapping on your keyword whilst ignoring [basic ergonomics](https://uhs.princeton.edu/health-resources/ergonomics-computer-use#workstation).

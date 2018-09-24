@@ -5,6 +5,7 @@ title: "Last Meeting of the Summer"
 date: 2018-08-16 10:00:00
 img: https://i.imgur.com/YEAkbY7.gif
 description: "Interns, take advantage of your 'exit interview'"
+categories: [internships, work]
 ---
 
 No matter where I interned during college, every summer ended the same way. A week before my last day, the boss would call me into his office or take me out to lunch. And every time, they'd ask me the same questions:

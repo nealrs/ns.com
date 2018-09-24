@@ -5,6 +5,7 @@ title: "Always Be Cataloging"
 date: 2018-06-21 10:00:00
 img: https://i.imgur.com/Be6WPWI.gif
 description: "A simple way to keep your résumé up to date"
+categories: [job hunting]
 ---
 
 It's the middle of June and we're approaching Q3. Can you tell me what you've done this year? How about last quarter? 2 months ago? The first half of your internship? _Last week_?

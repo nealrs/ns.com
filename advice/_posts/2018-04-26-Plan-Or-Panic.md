@@ -5,6 +5,7 @@ title: "Plan Or Panic"
 date: 2018-04-26 10:00:00
 img: https://media.giphy.com/media/PtziVPCCEn6so/giphy.gif
 description: "What are the next 5 bullet points you want on your résumé?"
+categories: [work]
 ---
 
 "Where do you see yourself a year from now? How about 5 years from now?"

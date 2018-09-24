@@ -5,6 +5,7 @@ title: "You Can't Negotiate Culture"
 date: 2017-08-17 10:00:00
 img: https://media.giphy.com/media/R58jyn0kwwSpq/giphy.gif
 description: "You can't fix a company's culture by yourself"
+categories: [work, job hunting]
 ---
 
 You can fix broken code. You can fix a broken copy machine. You can even fix a broken process. But you just can't fix a company's culture by yourself.

@@ -5,6 +5,7 @@ title: "What's In a Title?"
 date: 2018-06-07 10:00:00
 img: https://media.giphy.com/media/b7MdMkkFCyCWI/giphy.gif
 description: "You might not care about your title, but recruiters do"
+categories: [work, job hunting]
 ---
 
 >_That which we call a ~~rose~~ Sr. Developer_

@@ -5,6 +5,7 @@ title: "Following Up is Easy"
 date: 2017-05-11 10:00:00
 img: https://media.giphy.com/media/xUA7b2z8NcgvyIthGU/giphy.gif
 description: "Following up isn't just a good idea, it's a requirement"
+categories: [job hunting]
 ---
 
 Whether you meet someone at a job interview, career fair, or a coffee chat, following up isn't just a good idea&mdash;[it's a requirement](https://devpost.com/thecommit/video-following-up-isn-t-optional)!

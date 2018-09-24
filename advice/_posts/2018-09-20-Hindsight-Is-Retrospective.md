@@ -5,6 +5,7 @@ title: "Hindsight is Retrospective"
 date: 2018-09-20 10:00:00
 img: https://i.imgur.com/lpNmapO.gif
 description: "5 steps for a productive weekly retrospective meeting"
+categories: [work, productivity]
 ---
 
 Tomorrow is Friday, which means your weekly retrospective meeting, AKA, _Retro_ is right around the corner.

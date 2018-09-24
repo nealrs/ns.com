@@ -5,6 +5,7 @@ title: "Negotiating Job Offers"
 date: 2017-08-10 10:00:00
 img: https://media.giphy.com/media/l1KsFrL3G1kF7FixO/giphy.gif
 description: "Before you dive into a salary negotiation, read this"
+categories: [job hunting]
 ---
 
 Standard advice for salary negotiations when you've reached a roadblock is to look for tradable issues&mdash;things that are of low importance to you / high importance to the employer (and vice versa)&mdash;that lead to a successful outcome for both parties.

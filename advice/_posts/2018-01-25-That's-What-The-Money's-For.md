@@ -5,6 +5,7 @@ title: "That's What The Money's For!"
 date: 2018-01-25 10:00:00
 img: https://i.imgur.com/7Lp0njr.gif
 description: "If you want to get paid more, prove that you're delivering value"
+categories: [work, job hunting]
 ---
 
 Unsatisfied with your paycheck? [Tom Lianza's advice](https://lianza.org/blog/2018/01/21/fellow-engineers-this-is-where-your-money-comes-from/) is to look for ways to add value to whatever makes your business money: customers.

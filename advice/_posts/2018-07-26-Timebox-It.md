@@ -5,6 +5,7 @@ title: "Timebox it!"
 date: 2018-07-26 10:00:00
 img: https://media.giphy.com/media/OQrrzYvuMUhPy/giphy.gif
 description: "Do more with less using timeboxes"
+categories: [work, productivity]
 ---
 
 It's really easy to go overboard with new frameworks, languages, and technologies. On the one hand, you're learning, hacking, exploring, and creating. But on the other, you've got a finite amount of time to complete foo, build bar, and fix baz.

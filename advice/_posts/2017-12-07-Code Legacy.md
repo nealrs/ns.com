@@ -5,6 +5,7 @@ title: "Code Legacy"
 date: 2017-12-07 10:00:00
 img: https://media.giphy.com/media/3orieJI3IdkKWIsAGA/giphy.gif
 description: "Your code's legacy is what it enabled"
+categories: [work]
 ---
 
 In software development, _legacy_ comes with a negative connotation. Legacy software is old. It's a chore to work with. And to many developers, code doesn't just age, it rots, requiring regular replacement.

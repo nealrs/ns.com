@@ -5,6 +5,7 @@ title: "Empathy, the Ultimate Software Dependency"
 date: 2017-06-22 10:00:00
 img: https://media.giphy.com/media/3rgXBBaVvhPXk3NSnK/giphy.gif
 description: "Software Development is about solving other people's problems"
+categories: [work]
 ---
 
 Developers, and technologists in general, are often portrayed in media as oblivious bros or socially awkward, hubristic savants.

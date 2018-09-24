@@ -5,6 +5,7 @@ title: "Getting Past Gatekeepers"
 date: 2017-09-28 10:00:00
 img: https://media.giphy.com/media/8abAbOrQ9rvLG/giphy.gif
 description: "How to get past gatekeepers"
+categories: [job hunting]
 ---
 
 Ever wonder if experienced developers and executives have trouble getting jobs? They do. And it's often because of the gatekeeper problem:

@@ -5,6 +5,7 @@ title: "Longevity or Liability?"
 date: 2018-05-17 10:00:00
 img: https://i.imgur.com/UP2O296.gif
 description: "Today's code is tomorrow's technical debt"
+categories: [work]
 ---
 
 [Invented in the 1960s](https://www.wikiwand.com/en/Plastic_shopping_bag), it took two decades for plastic shopping bags to catch on with major U.S. grocery chains. And once they did, they were everywhere. Strong, cheap, light, and waterproof—they were a big improvement over paper bags.

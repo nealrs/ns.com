@@ -5,6 +5,7 @@ title: "You're Halfway Through Your Summer Internship"
 date: 2018-07-19 10:00:00
 img: https://media.giphy.com/media/P7qFEMh3TLMGY/giphy.gif
 description: "Don't miss out on these opportunities. You'll be back in class soon enough!"
+categories: [internships]
 ---
 
 It's the middle of July, so you're probably about halfway through your summer internship. How's it going? Good? That's awesome, have you:

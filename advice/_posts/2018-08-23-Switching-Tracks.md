@@ -1,10 +1,11 @@
 ---
 layout: post
 
-title: "Changing Careers"
+title: "Switching Tracks"
 date: 2018-08-23 10:00:00
-img: https://media1.giphy.com/media/OwL4cYLOxT8t2/giphy.gif
+img: https://media.giphy.com/media/NGSbD5vI6lUvC/giphy.gif
 description: "A personal story about switching careers"
+categories: [career switching]
 ---
 
 Back in the '60s, my pops graduated from the Railway College in Jamalpur, India and began his _very short career_ as a railway engineer. While his peers enjoyed riding the footboards, inspecting rights of way, and traveling in their private train cars&mdash;he found himself underwhelmed.

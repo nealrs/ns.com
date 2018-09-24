@@ -5,6 +5,7 @@ title: "Holiday Tech Support"
 date: 2017-12-21 10:00:00
 img: https://media2.giphy.com/media/26tOW2AKwcQYkDLnG/giphy.gif 
 description: "Upgrade your family this holiday season"
+categories: [family]
 ---
 
 Headed home for the holidays? Prepare for unavoidable questions like "Can you fix my computer / phone / toaster?", "Should I buy a Bitcoin?", and "What does Switzerland have to do with my Internet?"

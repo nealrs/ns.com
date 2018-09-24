@@ -5,6 +5,7 @@ title: "Meetings Ain't Cheap"
 date: 2018-06-14 10:00:00
 img: https://i.imgur.com/mrKYXVE.gif
 description: "You can't avoid meetings, but you can make them suck less"
+categories: [work, productivity]
 ---
 
 >_Meetings, where minutes are taken and hours are lost._

@@ -173,14 +173,33 @@ hr{
   
 }
 
-
 .share{
   text-align:center;
 }
 
 .share i{
-  padding: 0px 5px;
+  padding: 8px 4px;
 }
+
+/*.share p{
+  margin-top: 5px;
+  margin-bottom: 5px;
+}*/
+
+.categories a{
+  padding: 4px 8px;
+  background-color: #efefef;
+  color: #111111;
+  border-radius: 4px;
+  font-size: 80%;
+}
+
+.categories p{
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+
 /*icon animations*/
 .wave{
   display: -moz-inline-stack;

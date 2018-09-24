@@ -5,6 +5,7 @@ title: "GitHub Is Not Your Portfolio"
 date: 2018-03-15 10:00:00
 img: https://i.imgur.com/r6Ksj2t.gif
 description: "HR reps & hiring managers aren't that interested in your GitHub profile"
+categories: [job hunting]
 ---
 
 Real talk: most HR reps and hiring managers aren't interested in your GitHub profile. Unless your code is well documented, comes with tests, has great instructions, or is live online, don't expect anyone to clone it or try it out.

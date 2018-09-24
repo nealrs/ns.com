@@ -5,6 +5,7 @@ title: "Nobody Likes Writing Cover Letters"
 date: 2017-08-03 10:00:00
 img: https://media3.giphy.com/media/b55x0VFpFKm7S/giphy.gif
 description: "Write cover letters &amp; résumés that get noticed"
+categories: [job hunting]
 ---
 
 According to our last [Student Hacker Report](https://studenthackers.devpost.com/#applying), cover letters aren't very popular. Over 40% of students said writing them was their least favorite part of job hunting.

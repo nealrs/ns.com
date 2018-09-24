@@ -5,6 +5,7 @@ title: "Résumés & Hackathons"
 date: 2018-03-01 10:00:00
 img: https://i.imgur.com/hpq1cXz.gif
 description: "How to put hackathons on your résumé"
+categories: [job hunting]
 ---
 
 Do hackathons belong on your résumé? Yes, without a doubt! While it's not _professional_ experience, a hackathon project represents hard won lessons in project management, team work, self-education, creativity, and competition.

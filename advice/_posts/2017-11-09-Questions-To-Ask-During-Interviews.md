@@ -5,6 +5,7 @@ title: "Smart Questions to Ask During Interviews"
 date: 2017-11-09 10:00:00
 img: https://i.imgur.com/GCAaMVl.gif
 description: "Smart questions to ask during interviews"
+categories: [job hunting]
 ---
 
 Job interviews are supposed to be a two way street, not cop show style interrogations. So, during the last 10 minutes of your call or meeting, take the opportunity to ask a few questions and learn more about the company, the role, and the team.

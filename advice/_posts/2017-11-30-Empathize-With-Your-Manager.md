@@ -5,6 +5,7 @@ title: "Empathize With Your Manager"
 date: 2017-11-30 10:00:00
 img: https://media.giphy.com/media/l2JhOrLuCSGr33czu/giphy.gif
 description: "Try empathizing with your manager"
+categories: [work]
 ---
 
 Put down that turkey sandwich and listen up!

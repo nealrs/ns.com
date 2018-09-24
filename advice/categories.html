@@ -1,0 +1,18 @@
+---
+layout: default
+title: Category Archive &middot; Neal's Career Advice for Hackers
+---
+
+<div class="section advicecontent" id="categorybackissues">
+
+{%- for category in site.categories -%}
+    {%- capture category_name -%}{{ category | first }}{%- endcapture -%}
+    {%- unless forloop.first -%}</ul>{%- endunless -%}
+    <h3 class="headline" id="{{ category_name | slugize }}">{{ category_name }}</h3>
+    <ul>
+    {%- for post in site.categories[category_name] -%}
+      <li><a href="{{ site.baseurl }}{{ post.url }}">{{post.description | improve}}</a></li>
+    {%- if forloop.last -%}</ul>{%- endif -%}
+    {%- endfor -%}
+{%- endfor -%}
+</div>

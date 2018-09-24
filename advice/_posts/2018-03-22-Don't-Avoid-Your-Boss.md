@@ -5,6 +5,7 @@ title: "Don't Avoid Your Boss"
 date: 2018-03-22 10:00:00
 img: https://media.giphy.com/media/3oKHW5ZTzcxAbDzXYk/giphy.gif
 description: "Talking to your boss on a regular basis is 100% a positive career move"
+categories: [work]
 ---
 
 Whether it's an annual review, weekly 1:1, or a casual chat, talking to the boss isn't something most people look forward to. I mean, nobody wants to talk to "the man," right?

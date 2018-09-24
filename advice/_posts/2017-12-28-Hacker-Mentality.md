@@ -5,6 +5,7 @@ title: "Hacker Mentality"
 date: 2017-12-28 10:00:00
 img: http://i.qkme.me/3t5825.jpg
 description: "Step into the new year with a hacker mentality"
+categories: [productivity]
 ---
 
 As you prepare your mind, body, and spirit for 2018, consider this: In the 1880s, American homesteaders used [barbed wire fences to carry telephone signals](https://www.atlasobscura.com/articles/barbed-wire-telephone-lines-homesteaders-prairie-america-history), because telephone companies didn't think it was cost effective to run cable in rural areas.

@@ -16,7 +16,7 @@ I got laid off once and it felt _awful_, like the world had singled me out. But 
 
 **Here's how I got through my layoff**
 
-**1.** I talked to people (my family, my girlfiend, my old coworkers) and felt all my feels.
+**1.** I talked to people (my family, my girlfriend, my old co-workers) and felt all my feels.
 
 **2.** I looked in the mirror and reminded myself that this was temporary and not my fault. Things happen, but I'm great.
 

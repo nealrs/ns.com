@@ -22,7 +22,7 @@ author:
   twitter:        nealrs
 
 
-plugins: ['jekyll-typogrify']
+plugins: ['jekyll-typogrify', 'jekyll-money']
 
 # Custom vars
 version:          2.1.0

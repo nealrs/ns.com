@@ -199,6 +199,40 @@ hr{
   margin-bottom: 0;
 }
 
+/*INVOICE STYLES*/
+.total td{
+  font-weight: 900;
+  padding-top: .5rem;
+  border-top: 1px dotted;
+}
+.total{
+  color: #c31;
+}
+
+table {
+  padding-bottom: 1rem;
+}
+
+td { 
+  padding: .15rem .5rem; 
+  width: auto;
+}
+
+td:nth-child(1){
+  padding-left: 0 !important;
+}
+
+thead{
+  font-weight: 900;
+  color: #c31;
+}
+.lineitems{
+  text-align:right;
+}
+
+.lineitems td:nth-child(1){
+  text-align:left;
+}
 
 /*icon animations*/
 .wave{

@@ -1,0 +1,11 @@
+s3_id: <%= ENV['S3_ID'] %>
+s3_secret: <%= ENV['S3_SECRET'] %>
+s3_bucket: nealshyam.com
+s3_key_prefix: advice
+
+gzip: true
+cache_control: public, no-transform, max-age=1200, s-maxage=1200
+
+#site_url: "http://localhost:4000"
+output_folder: "_site"
+#publish_url: "nealshyam.com/advice"

@@ -5,7 +5,7 @@
 
 	<title>
 		{%- if page.title -%}
-			{{ page.title }} &middot; {{ site.description }}
+			{{page.title | improve | strip_html}} &middot; {{ site.description }}
 		{%- else -%}
 			{{ site.title }}
 		{%- endif -%}

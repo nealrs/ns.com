@@ -99,6 +99,7 @@ li.intern:before, span.intern{color:#2ECC40;}
 h3{
   padding-bottom: .5rem;
   border-bottom: 1px dotted;
+  line-height: 130%;
 }
 
 .title:after{

@@ -12,7 +12,7 @@
         <a href="{{ site.baseurl }}"><h2 class="headline">Hacker Career Advice</h2></a>
         {%- if page.description -%}<h3>{{page.title | titlecase | improve}}</h3>{%- endif -%}
       </div>
-      {{ content | improve}}
+      {{content | improve}}
 
       <hr>
       <p>&copy; {{ site.time | date: '%Y' }}&nbsp;<a href="{{site.author.url}}">Neal Shyam</a></p>

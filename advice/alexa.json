@@ -1,0 +1,31 @@
+---
+layout: null
+---
+[
+{% for post in site.posts limit:1 %}
+  {% assign today = site.time | date: "%Y-%m-%d" %}
+  {% assign todayp = post.date | date: "%Y-%m-%d" %}
+    {
+      "uid": "id:{{site.siteurl}}{{ post.url }}",
+      "updateDate": "{{ post.date | date: '%Y-%m-%dT%H:%M:%S.0Z' }}",
+      "titleText": "{{post.title}}",
+      "mainText": "{{ post.content 
+            | markdownify 
+            | strip_html 
+            | newline_to_br 
+            | strip_newlines 
+            | replace: "<br />", " "
+            | replace: "&nbsp;", " "
+            | replace: "&mdash;", "-"
+            | replace: "&ndash;", "-"
+            | replace: "&rsquo;", "'"
+            | replace: "&lsquo;", ";"
+            | replace: "&rdquo;", '\"'
+            | replace: "&ldquo;", '\"'
+            | strip
+        }}",
+      "streamUrl": null,
+      "redirectionUrl": "{{site.siteurl}}{{ post.url }}"
+    }{% if forloop.last != true and forloop.index0 >0 %},{% endif %}
+{% endfor %}
+]

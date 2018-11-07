@@ -22,7 +22,7 @@ Here are a few ways to prevent yourself from spinning out:
 
 **1.** Take a mini vacay. Call up old roommates you haven’t seen in a while. Dust off your pottery wheel and throw a pot.
 
-**2.** Do some Retail therapy / get a makeover. Every time I accept a new job, I like to get a new outfit and a fresh haircut.
+**2.** Do some retail therapy / get a makeover. Every time I accept a new job, I like to get a new outfit and a fresh haircut.
 
 **3.** Think about how you can maintain relationships with coworkers that you’ve bonded with. **You're quitting the company, but you don't have to quit the people**.
 

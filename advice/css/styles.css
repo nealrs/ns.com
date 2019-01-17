@@ -362,8 +362,31 @@ thead{
   }
 }
 
+/*
+  Page Navigation Styles
+*/
 
+.PageNavigation {
+  /*font-size: 14px;*/
+  display: block;
+  width: auto;
+  overflow: hidden;
+  text-align: center;
+}
 
+.PageNavigation a {
+  display: block;
+  width: 33.333%;
+  float: left;
+  margin: .6em 0;
+}
+
+.left{
+  margin-left: .5rem;
+}
+.right{
+  margin-right: .5rem;
+}
 
 @media screen and (min-width: 0px) and (max-width: 400px) {
   .title:after {

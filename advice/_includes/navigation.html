@@ -1,0 +1,9 @@
+  <div class="PageNavigation">
+    {% if page.previous.url %}
+      <a class="prev left" href="{{site.baseurl}}{{page.previous.url}}">⬅️&nbsp;Previous</a>
+      <a href="{{site.baseurl}}">⤴️&nbsp;Home</a>
+    {% endif %}
+    {% if page.next.url %}
+      <a class="next right" href="{{site.baseurl}}{{page.next.url}}">Next&nbsp;➡️</a>
+    {% endif %}
+  </div>

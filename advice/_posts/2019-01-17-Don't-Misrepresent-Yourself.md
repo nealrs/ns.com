@@ -4,7 +4,7 @@ layout: post
 title: "Don't Misrepresent Yourself"
 date: 2019-01-17 10:00:00
 img: https://i.imgur.com/sQWcBVb.gif
-description: "If you claim to be an expert at something, you'd better be able to back it up."
+description: "If you claim to be an expert at something, you'd better be able to back it up"
 categories: [job hunting]
 ---
 

@@ -254,8 +254,18 @@ a.auth_button:hover {
   }
 }
 
+@media screen and (min-width: 1200px){
+  body{
+    max-width: 700px;
+    font-size: 24px;
+  }
 
-
+  hr{
+    color: #111111;
+    border: 1px dotted;
+    
+  }
+}
 
 @media screen and (min-width: 0px) and (max-width: 400px) {
   .title:after {

@@ -6,6 +6,23 @@ body{
   color: #111111;
 }
 
+/* -- Responsive video embed -- */
+.rvid {
+    padding-bottom: 56.25%; /* for 16:9 ratio */
+    padding-top: 25px;
+    position: relative;
+    height: 0;
+}
+.rvid iframe,
+.rvid object,
+.rvid embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
 a {color: #11aacc; text-decoration: none; }
 a:active, a:hover {color: #0b768e;}
 /*a:visited {color: #85144B;}*/

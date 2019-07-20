@@ -6,6 +6,25 @@ body{
   color: #111111;
 }
 
+.resp{
+  max-width: 100%; 
+}
+
+.one-third{
+  max-width: 31%;
+}
+
+.center{
+  text-align:center;
+}
+
+.red{
+  color: #c31;
+}
+
+.strike {
+  text-decoration: line-through;
+}
 /* -- Responsive video embed -- */
 .rvid {
     padding-bottom: 56.25%; /* for 16:9 ratio */

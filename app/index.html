@@ -13,8 +13,6 @@
  <link rel="stylesheet" href="../css/styles.css">
  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/5.9.0/css/all.min.css">
 
- <!--<script defer src="//use.fontawesome.com/releases/v5.0.1/js/all.js"></script>-->
-
   <!--[if lt IE 9]>
     <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
   <![endif]-->
@@ -54,12 +52,15 @@
     <div class="rvid">
       <iframe width="560" height="315" src="https://www.youtube.com/embed/u1k1JZtDzuU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
-    <h3>
-     <a href="/app/StoryScroll-1.0.0.dmg" download id="downloadLink"><i class="fas fa-cloud-download-alt fa-fw"></i> Download Free for MacOS</a>
-    </h3>
+    <p>
+      Download the Free App
+    </p>
+    <p>
+      <a href="/app/mac/StoryScroll-1.0.4.dmg" download id="downloadLinkMac"><i class="fab fa-apple fa-fw"></i> MacOS</a> &nbsp; <a href="/app/win/StoryScroll%20Setup%201.0.4.exe" download id="downloadLinkWin"><i class="fab fa-windows fa-fw"></i> Windows (Beta)</a>
+    </p>
   </div>
   
-  <p>StoryScroll turns webpages &amp; blog posts into auto-scrolling videos perfectly sized for Instagram Stories, Posts, and other social media!</p>
+  <p>StoryScroll turns webpages &amp; blog posts into scrolling videos for Instagram Stories and social media!</p>
 
   <h2 class="headline">Why is this useful?</h2>
   <p>You can't post links on Instagram unless you're verified or have 10,000 followers. And even then, every link is a roadblock.</p>
@@ -71,19 +72,17 @@
   <p>Your videos will look <em>great</em> on Instagram and any social media that supports video.</p>
 
   <h2 class="headline">How it works</h2>
-  <p><span class="red">1.</span> Input a URL</p>
-  <p><span class="red">2.</span> Click <em>Make Videos</em></p>
-  <p><span class="red">3.</span> Post!</p>
+  <p><span class="red bignum">1.</span> Input a URL</p>
+  <p><span class="red bignum">2.</span> Click <em>Make Videos</em></p>
+  <p><span class="red bignum">3.</span> Post!</p>
 
-  <p><span class="red"><i class="fas fa-question-circle"></i></span> <a href="help/" target="_blank" title="illustrated walkthrough guide with complete instructions on how to make videos & post them" id="downloadLink">Read the docs for complete instructions</a></p>
+  <p><span class="red"><i class="fas fa-question-circle"></i></span> <a href="help/" target="_blank" title="illustrated walkthrough guide with complete instructions on how to make videos & post them" id="helpLink">Read the docs for complete instructions</a></p>
 
-  <h2 class="headline">Use it everywhere</h2>
+  <h2 class="headline" id="examples">Use it everywhere</h2>
   <p><span class="red"><i class="fab fa-instagram fa-fw"></i></span> <a href="https://www.instagram.com/s/aGlnaGxpZ2h0OjE3OTk2OTU1NTkyMjQ1OTI2?igshid=18l4v8bl7en5p&story_media_id=2075190576988107306"> Instagram Stories</a> &amp; <a href="https://www.instagram.com/p/BzPGpX0JGx0/"> Posts</a></p>
  
   <p><span class="red"><i class="fab fa-linkedin-in fa-fw"></i></span><a href="https://www.linkedin.com/feed/update/urn:li:activity:6551822749705269249"> LinkedIn</a></p>
-
   <p><span class="red"><i class="fab fa-twitter fa-fw"></i></span><a href="https://twitter.com/nealrs/status/1151096738024964096"> Twitter</a></p>
-
   <p><span class="red"><i class="fab fa-facebook-f fa-fw"></i></span><a href="https://www.facebook.com/nealrs/videos/vb.4801052/10102279472665349/?type=2&theater"> Facebook</a></p>
 
 
@@ -94,7 +93,7 @@
   <p>Purchase a <a href="https://gumroad.com/l/nealrs" target="_blank" id="premiumLink">⭐Premium Pass</a> to unlock advanced features:</p>
   <p><span class="red"><i class="fas fa-unlock-alt fa-fw"></i></span> Add a <em>Call to Action</em> that tells viewers how to subscribe &amp; where to find you online. You could even use this feature to insert an ad.</p>
   <p><span class="red"><i class="fas fa-unlock-alt fa-fw"></i></span> Remove unwanted HTML elements like navbars, footers, and comment widgets using CSS selectors.</p>
-  <p><span class="red"><i class="fas fa-unlock-alt fa-fw"></i></span> No watermarks</p>
+  <p><span class="red"><i class="fas fa-unlock-alt fa-fw"></i></span> Add your own watermarks</p>
 
 
   <h2 class="headline">Here to help</h2>
@@ -106,13 +105,22 @@
   </div>
  </div>
 	<script>
-	    var res = document.getElementById("downloadLink");
+	    var res = document.getElementById("downloadLinkMac");
       res.addEventListener('click', function() {
         ga('send', {
             hitType: 'event',
             eventCategory: 'Web',
             eventAction: 'link',
-            eventLabel: 'Download'
+            eventLabel: 'Download MacOS'
+        });	
+      }, false);
+      var res = document.getElementById("downloadLinkWin");
+      res.addEventListener('click', function() {
+        ga('send', {
+            hitType: 'event',
+            eventCategory: 'Web',
+            eventAction: 'link',
+            eventLabel: 'Download Windows'
         });	
       }, false);
 

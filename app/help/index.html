@@ -13,8 +13,6 @@
  <link rel="stylesheet" href="../../css/styles.css">
  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/5.9.0/css/all.min.css">
 
- <!--<script defer src="//use.fontawesome.com/releases/v5.0.1/js/all.js"></script>-->
-
   <!--[if lt IE 9]>
     <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
   <![endif]-->
@@ -50,36 +48,39 @@
 
  <div class="main">
   <div id="top">
- 	  <h2 class="headline">StoryScroll</h2>
+ 	  <a href="/app/"><h2 class="headline">StoryScroll</h2></a>
     <p>
-     <a href="/app/"><i class="fas fa-long-arrow-alt-left fa-fw"></i> Home</a> &nbsp;&nbsp;&middot;&nbsp;&nbsp; <a href="/app/StoryScroll-1.0.0.dmg" download id="downloadLink"><i class="fas fa-cloud-download-alt fa-fw"></i> Download App</a>
+      Download the Free App
+    </p>
+    <p>
+      <a href="/app/mac/StoryScroll-1.0.4.dmg" download id="downloadLinkMac"><i class="fab fa-apple fa-fw"></i> MacOS</a> &nbsp; <a href="/app/win/StoryScroll%20Setup%201.0.4.exe" download id="downloadLinkWin"><i class="fab fa-windows fa-fw"></i> Windows (Beta)</a>
     </p>
   </div>
   
-  <p>StoryScroll turns webpages &amp; blog posts into auto-scrolling videos perfectly sized for Instagram Stories and social media!</p>
+  <p>StoryScroll turns webpages &amp; blog posts into scrolling videos for Instagram Stories and social media!</p>
 
   <h2 class="headline" id="reqs">Requirements</h2>
   <p>In order to use StoryScroll, you'll need a few things:</p>
-  <p><span class="red">&bull;</span> <i class="fab fa-apple fa-fw"></i> MacOS</p>
-  <p><span class="red">&bull;</span> <i class="fab fa-chrome fa-fw"></i> Google Chrome</p>
-  <!--<p><span class="red">&bull;</span> <span class="strike"><i class="fas fa-graduation-cap fa-fw strike"></i> PhD in Computer Science</span></p>-->
+  <p><span class="red"><i class="fab fa-apple fa-fw"></i></span> MacOS</p>
+  <p><span class="red"><i class="fab fa-chrome fa-fw"></i></span> Google Chrome</p>
+  <p><span class="red"><i class="fas fa-gem fa-fw"></i> <span class="strike">Infinity Stones</span></p>
 
   <div>
     <h2 class="headline" id="tutorial">Tutorial</h2>
 
     <p>Let's StoryScroll a post from <a href="http://www.richardmurby.com/latest/2019/6/30/cycles-on-success-and-failure" target="_blank">Richard Murby's coaching blog</a>.</p>
 
-    <p><span class="red">1.</span> Input the page URL and use the default 400 wpm scrolling speed. You can ignore the article CSS selector for now.</p>
+    <p><span class="red bignum">1.</span> Input the page URL and use the default 400 wpm scrolling speed. You can ignore the article container CSS selector for now.</p>
 
     <p><a href="img/1.png" target="_blank"><img src="img/1.png" class="resp"></a></p>
 
-    <p><span class="red">☝️</span> If you're handy with HTML, input the CSS selector of the specific class or div which contains the article text. For this page, it's <code class="red">.body</code>.</p>
+    <p class="tip"><span class="red">☝️</span> If you're handy with HTML, input the CSS selector of the specific class or div which contains the article text. For this page, it's <code class="red">.body</code>.</p>
     
-    <p>It's totally optional, but it enables the app to accurately determine the wordcount. And that's useful because:</p>
+    <p class="tip">It's totally optional, but it enables the app to accurately determine the wordcount. And that's useful because:</p>
     
-    <p><span class="red">☝️</span> Scrolling speed is affected by three things: article word count, page design, and text size. Play around with the speed and see what works best for your pages.</p>
+    <p class="tip"><span class="red">☝️</span> Scrolling speed is affected by three things: article word count, page design, and text size. Play around with the speed and see what works best for your pages.</p>
 
-    <p><span class="red">2.</span> Click <em>Preview Page</em> to see how StoryScroll views the page. It should look like you're browsing on your phone.</p>
+    <p><span class="red bignum"><strong>2.</strong></span> Click <em>Preview Page</em> to see how StoryScroll views the page. It should look like you're browsing on your phone.</p>
 
     <div class="center">
       <a href="img/2a.png" target="_blank"><img src="img/2a.png" class="one-third"></a>
@@ -87,55 +88,63 @@
       <a href="img/2c.png" target="_blank"><img src="img/2c.png" class="one-third"></a>
     </div>
 
-    <p><span class="red">3.</span> Click <em>Make Videos</em> and be patient while StoryScroll creates your videos.</p>
+    <p><span class="red bignum">3.</span> Click <em>Make Videos</em> and be patient while StoryScroll creates your videos.</p>
     <p><a href="img/3.gif" target="_blank"><img src="img/3.gif" class="resp"></a></p>
 
-    <p><span class="red">4.</span> Open your new desktop folder to see all three sets of videos (post, story, and full-length square). Then post them!</p>
+    <p><span class="red bignum">4.</span> Open your new desktop folder to see all three sets of videos (post, story, and full-length square). Then post them!</p>
     <p><a href="img/4.png" target="_blank"><img src="img/4.png" class="resp"></a></p>
     <p class="center"><a href="img/4.gif" target="_blank"><img src="img/4.gif" class="resp"></a></p>
+
+    <p><a href="https://www.instagram.com/p/Bzako51p0Ew/" target="_blank">Here's a live example</a> from Richard's Instagram feed.</p>
+
   </div>
 
   <h2 class="headline" id="posting">Get it on the 'Gram</h2>
 
   <p class="headline" id="postStory">Instagram Stories</p>
 
-  <p><span class="red">1.</span> Copy everything in the <code class="red">/ig-story</code> folder to your phone via AirDrop.</p>
+  <p><span class="red bignum">1.</span> Copy everything in the <code class="red">/ig-story</code> folder to your phone via AirDrop.</p>
 
-  <p><span class="red">2.</span> Open Instagram, create a new story, go to your cameral roll, and select the first video <code class="red">foo-story000.mp4</code>.</p>
+  <p><span class="red bignum">2.</span> Open Instagram, create a new story, go to your cameral roll, and select up to 10 Story videos, starting with <code class="red">foo-story000.mp4</code>.</p>
 
-  <p><span class="red">☝️</span> Instagram automatically chops up videos into 15 second clips. Anything past 60s is ignored.</p>
+  <p class="tip"><span class="red">☝️</span> Instagram Story videos can not exceed 15 seconds, so StoryScroll automatically chops your video into a series of clips.</p>
 
-  <p><span class="red">☝️</span> The beauty of this is that the transition between clips is seamless, and viewers can tap on the screen to pause and swipe left/right to psuedo-rewind & fast-forward.</p>
+  <p class="tip"><span class="red">☝️</span> The beauty of this is that the transition between clips is seamless, and viewers can tap on the screen to pause and swipe left/right to psuedo-rewind & fast-forward.</p>
 
-  <p><span class="red">☝️</span> You can also annotate each clip with stickers, CTAs, polls, etc.</p>
+  <p class="tip"><span class="red">☝️</span> You can also annotate each clip with stickers, CTAs, polls, etc.</p>
 
-  <p><span class="red">3.</span> Once you're satisfied with your clips, post them to your story and repeat with the remaining story videos.</p>
+  <p class="tip"><span class="red bignum">3.</span> Once you're satisfied with your clips, post them to your story and repeat with the remaining story videos.</p>
 
-  <p><span class="red">☝️</span> If Instagram tells you it failed to upload your stories, don't worry. Just re-start the app (or switch accounts), go back to your story, and tap retry.</p>
+  <p class="tip"><span class="red">☝️</span> If Instagram tells you it failed to upload your stories, don't worry. Just re-start the app (or switch accounts), go back to your story, and tap retry.</p>
 
   <p class="headline" id="postIG">Instagram Feed</p>
 
-  <p><span class="red">1.</span> Copy everything in the <code class="red">/ig-post</code> folder to your phone via AirDrop.</p>
+  <p><span class="red bignum">1.</span> Copy everything in the <code class="red">/ig-post</code> folder to your phone via AirDrop.</p>
 
-  <p><span class="red">2.</span> Open Instagram, create a new post from your photo library, and select up to 10 videos.</p>
+  <p><span class="red bignum">2.</span> Open Instagram, create a new post from your photo library, and select up to 10 videos.</p>
 
-  <p><span class="red">2.</span> @ people, hash your tags, add some inspofuel, remind viewers to swipe to continue reading, and hit Share!</p>
+  <p><span class="red bignum">3.</span> @ people, hash your tags, add some inspofuel, remind viewers to swipe to continue reading, and hit Share!</p>
 
   <p class="headline" id="postSocial">Everywhere else</p>
 
-  <p>Post the full-length square video in <code class="red">/square</code> to Twitter, Facebook, LinkedIn, or any other social media that accepts video. Unlike Insta, you don't need to use your phone or deal with segments.</p>
+  <p>Post the full-length square video in <code class="red">/square</code> to Twitter, Facebook, LinkedIn, or any other social media that accepts video. Unlike IG, most sites will let you post directly form your computer.</p>
 
   <h2 class="headline" id="premiumTutorial">Premium Pass Features</h2>
-  <p>While the videos we created in the <a href="#tutorial"> tutorial</a> are great, you can do <em>even more</em> with a <a href="https://gumroad.com/l/nealrs" target="_blank" id="premiumLink">⭐Premium Pass</a> subscription.</p>
+  <p>The videos we created in the <a href="#tutorial"> tutorial</a> are great, but you can do <em>even more</em> with a <a href="https://gumroad.com/l/nealrs" target="_blank" id="premiumLink">⭐Premium Pass</a> subscription.</p>
 
   <p class="headline" id="activatePremium">Enable Premium Pass</p>
   <p>Once you subscribe, you'll receive license key that looks like this: <code class="red">21XTYF07-A94F2911-A6f00CCF-5D9A7D3F</code>. Look for it in your email receipt from Gumroad.</p>
 
   <p>Open StoryScroll, paste your key into the appropriate box and click <em>Save Key</em>.</p>
   
-  <p>If your key is valid, the app will confirm your subscription and Premium configuration options will no longer be greyed out.</p>
+  <p>If your key is valid, the app will confirm your subscription and you'll be able to access every single Premium feature.</p>
 
   <p><a href="img/5.png" target="_blank"><img src="img/5.png" class="resp"></a></p>
+
+  <p class="headline" id="watermark"><strong>New!</strong> Add a Watermark</p>
+  <p>You can brand your videos with a custom watermark. Just choose a <code class="red">png</code> or <code class="red">jpg</code> file on your computer and run a <em>Page Preview</em> to see what it looks like. Your image will be scaled to a 100px height and appear at the bottom left.</p>
+
+  <p class="tip"><span class="red">☝️</span> Unlike the other input fields, StoryScroll does not persist your watermark setting between sessions. You must select the file every time you re-open the app.</p>
 
   <p class="headline" id="ctaPremium">Add a Call to Action</p>
 
@@ -145,9 +154,9 @@
 
   <p><a href="img/6.png" target="_blank"><img src="img/6.png" class="resp"></a></p>
   
-  <p><span class="red">☝️</span> The <em>CTA Preview</em> area displays exactly what StoryScroll will <em>try</em> to inject into your page. It updates whenever you hit tab or click outside an input field.</p>
+  <p class="tip"><span class="red">☝️</span> The <em>CTA Preview</em> area displays exactly what StoryScroll will <em>try</em> to inject into your page. It updates whenever you hit tab or click outside an input field.</p>
 
-  <p><span class="red">☝️</span> If you don't want to include a CTA, leave both the <em>Intro</em> and <em>Text</em> boxes blank.</p> 
+  <p class="tip"><span class="red">☝️</span> If you don't want to include a CTA, leave both the <em>Intro</em> and <em>Text</em> boxes blank.</p> 
 
   <p class="headline" id="removePremium">Remove elements via CSS</p>
 
@@ -162,34 +171,28 @@
   <p><a href="img/7a.png" target="_blank"><img src="img/7a.png" class="resp"></a></p>
   <p><a href="img/7b.png" target="_blank"><img src="img/7b.png" class="resp"></a></p>
 
-
-
-
-
-  <!--<h2 class="headline">Yes, it's free</h2>
-  <p>Download the app and make unlimited awesome videos all day, every day.</p>
-  <p>If you want to customize your videos, purchase a <a href="https://gumroad.com/l/nealrs" target="_blank" id="premiumLink">⭐Premium Pass</a> to unlock advanced features:</p>
-  <p><span class="red">&bull;</span> Add a customized Call to Action at the end of your videos. Tell viewers to subscribe &amp; where to find you online. You could also use this feature to insert an advertisement.</p>
-  <p><span class="red">&bull;</span> Remove unwanted HTML elements based on CSS selectors, like navbars, footers, and comment widgets.</p>
-  <p><span class="red">&bull;</span> No watermarks</p>-->
-
   <h2 class="headline" id="faq">FAQ</h2>
 
-  <p><span class="red">Q:</span> <em>Why does the app take so long to run?</em><br/>
-  <span class="red">A:</span> Because it's rendering HD videos. For an average blog post on a modern Mac, it should take about ~2&ndash;4 minutes total. If you're using a pre-2015 MBA or something, it's gonna spin your fans a bit.</p>
+  <p><span class="red bignum">Q:</span> <em>Where can I see some live examples of StoryScroll on social media?</em></p>
+  <p class="qanswer"><span class="red bignum">A:</span> <a href="/app/#examples" target="_blank">Here's a list of examples</a> on Instagram, Facebook, LinkedIn, and Twitter.</p>
 
-  <p><span class="red">Q:</span> <em>What video formats &amp; sizes does StoryScroll make?</em><br/>
-  <span class="red">A:</span> StoryScroll produce three types of video, all of which are silent mp4s: 1080 x 1920 pixels for Instagram Stories, 1080 x 1080 pixels for Instagram Posts, and 1080 x 1080 pixels (full length video) for all other social media platforms.</p>
+  <p><span class="red bignum">Q:</span> <em>What video formats &amp; sizes does StoryScroll make?</em></p>
+  <p class="qanswer"><span class="red bignum">A:</span> StoryScroll produce three types of video, all of which are silent mp4s: 1080 x 1920 pixels for Instagram Stories (15 second clips), 1080 x 1080 for Instagram Posts (1 minute clips), and 1080 x 1080 px (full length video) for all other social media platforms.</p>
 
-  <p><span class="red">Q:</span> <em>Why does Instagram say "Upload Failed" when I post a new StoryScroll video?</em><br/>
-  <span class="red">A:</span> IG is a little fussy with multi-part uploads, but it's no big deal. Close & re-start the app (or switch accounts), go back to your story, and tap retry.</p>
+  <p><span class="red bignum">Q:</span> <em>Why does the app take so long to run?</em></p>
+  <p class="qanswer"><span class="red bignum">A:</span> Because it's rendering HD videos. For an average blog post on a modern Mac, it should take about 2&ndash;4 minutes. If you're using a pre-2015 MBA or something, it's gonna spin your fans a bit.</p>
 
-  <p><span class="red">Q:</span> <em>Can I post directly to Instagram from StoryScroll?</em><br/>
-  <span class="red">A:</span> Nope. IG doesn't have a public API for that.</p>
+  <p><span class="red bignum">Q:</span> <em>Why does Instagram say "Upload Failed" when I post a new StoryScroll video?</em></p>
+  <p class="qanswer"><span class="red bignum">A:</span> IG is a little fussy with multi-part uploads, but it's no big deal. Close & re-start the app (or switch accounts), go back to your story, and tap retry.</p>
 
-  <p><span class="red">Q:</span> <em>Can I add my own watermark?</em><br/>
-  <span class="red">A:</span> Kinda! With a Premium Pass, you can add a custom CTA to the end of your videos. The bottom left watermark only appears on free videos and is not configuarable.</p>
+  <p><span class="red bignum">Q:</span> <em>Can I post directly to Instagram from StoryScroll?</em></p>
+  <p class="qanswer"><span class="red bignum">A:</span> No, not from StoryScroll. But, I believe with tools like <a href="https://later.com/pricing/" target="_blank">Later</a> or <a href="https://skedsocial.com/" target="_blank">Sked</a>, you can schedule &amp; post Stories from your desktop.</p>
 
+  <!--<p><span class="red bignum">Q:</span> <em>Can I add my own watermark?</em></p>
+  <p class="qanswer"><span class="red bignum">A:</span> Kinda! With a Premium Pass, you can add a custom CTA to the end of your videos. The bottom left watermark only appears on free videos and is not configuarable.</p>-->
+
+  <p><span class="red bignum">Q:</span> <em>Do you have plans for feature X, an API, or Windows, web, and mobile apps?</em></p>
+  <p class="qanswer"><span class="red bignum">A:</span> Maybe. It depends on how many people ask for it &amp; what the use case is. I am a Product Manager after all.</p>
 
   <h2 class="headline" id="contact">Questions?</h2>
   <p>I'm eager to get your feedback and make StoryScroll the best it can be. Email me anytime at <a href="mailto:nealrs+app@gmail.com?subject=StoryScroll" target="_blank" id="mailtoLink">nealrs@gmail.com</a></p>
@@ -200,13 +203,22 @@
   </div>
  </div>
 	<script>
-	    var res = document.getElementById("downloadLink");
+	    var res = document.getElementById("downloadLinkMac");
       res.addEventListener('click', function() {
         ga('send', {
             hitType: 'event',
             eventCategory: 'Web',
             eventAction: 'link',
-            eventLabel: 'Download'
+            eventLabel: 'Download MacOS'
+        });	
+      }, false);
+      var res = document.getElementById("downloadLinkWin");
+      res.addEventListener('click', function() {
+        ga('send', {
+            hitType: 'event',
+            eventCategory: 'Web',
+            eventAction: 'link',
+            eventLabel: 'Download Windows'
         });	
       }, false);
     

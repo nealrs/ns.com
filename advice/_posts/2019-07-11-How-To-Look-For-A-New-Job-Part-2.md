@@ -35,15 +35,15 @@ If your target is a second degree connection, you'll need to _ask_ your shared c
 
 >_Stripe is hiring in NYC and I'm really interested in working on their ACH & Crypto payment teams. Here's a link to my résumé: https://foo.bar/resume. Thanks!!"_
 
-You can also network by going to meetups, asking your friends if they know anyone at Company X, or going to conferences. It's not rocket science, [networking is mostly active listening](https://nealshyam.com/advice/2018/08/30/Hero-Worship/).
+You can also network by going to meetups, asking your friends if they know anyone at Company X, or going to conferences. It's not rocket science, [networking is mostly active listening](/advice/2018/08/30/Hero-Worship/).
 
 **Write a new résumé & cover letter for each job**
 
 Yeah, you read that right. Every job has different requirements, even if they are both for front-end devs. And every company has different values, even if they are both YC unicorns. 
 
-To improve your chances of getting an interview, [tailor your application every time](https://nealshyam.comhttps://nealshyam.com/advice/2017/08/03/Nobody-Likes-Writing-Cover-Letters/).
+To improve your chances of getting an interview, [tailor your application every time](/advice/2017/08/03/Nobody-Likes-Writing-Cover-Letters/).
 
-To make this easier, create a master spreadsheet of bullet points for each line item on your resume. By playing with the phrasing, you can spin one accomplishment 3 or 4 ways. If you've been [cataloging](https://nealshyam.com/advice/2018/06/21/Always-Be-Cataloging/) regularly, you should already have a huge list of bullets.
+To make this easier, create a master spreadsheet of bullet points for each line item on your resume. By playing with the phrasing, you can spin one accomplishment 3 or 4 ways. If you've been [cataloging](/advice/2018/06/21/Always-Be-Cataloging/) regularly, you should already have a huge list of bullets.
 
 Cover letters are unpopular, but they have two purposes:
 
@@ -59,11 +59,11 @@ If you make it past the filter, you'll probably have a phone screen with HR, a p
 Unfortunately, I can't tell you how to nail your interview, but I _can_ give you some good ammo:
 
 - [What’s the point of a  phone screen? ](https://www.youtube.com/watch?v=JnJpmuhupuQ)
-- [What should you wear to your interview?](https://nealshyam.com/advice/2018/02/22/Dresscode-For-Success/)
-- [You should always follow up after a call/meeting](https://nealshyam.com/advice/2017/05/11/Following-Up-Is-Easy/)
-- [Three types of technical interview questions](https://nealshyam.com/advice/2017/07/20/Technical-Interview-Toolkit/)
-- [Answering asinine culture fit questions](https://nealshyam.com/advice/2018/04/26/Plan-Or-Panic/)
-- [Dealing with gatekeepers](https://nealshyam.com/advice/2017/09/28/Getting-Past-Gatekeepers/)
-- And when you get the offer, [Negotiate a great outcome](advice/2018/10/25/Negotion-Starts-With-Preparation/)
+- [What should you wear to your interview?](/advice/2018/02/22/Dresscode-For-Success/)
+- [You should always follow up after a call/meeting](/advice/2017/05/11/Following-Up-Is-Easy/)
+- [Three types of technical interview questions](/advice/2017/07/20/Technical-Interview-Toolkit/)
+- [Answering asinine culture fit questions](/advice/2018/04/26/Plan-Or-Panic/)
+- [Dealing with gatekeepers](/advice/2017/09/28/Getting-Past-Gatekeepers/)
+- And when you get the offer, [Negotiate a great outcome](/advice/2018/10/25/Negotion-Starts-With-Preparation/)
 
 Don't get discouraged if you blow an interview or if a company passes on you. There are always more opportunities.

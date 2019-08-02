@@ -9,7 +9,7 @@ categories: [job hunting]
 ---
 I got this email from my building's Google group and I have to share it with you:
 
-<p class="center"><a href="https://i.imgur.com/J2R8PRQ.png"><img src="https://i.imgur.com/J2R8PRQ.png" class="inlineimg"></a></p>
+<p class="center"><a href="https://i.imgur.com/J2R8PRQ.png"><img src="https://i.imgur.com/J2R8PRQ.png" style="width:100%;"></a></p>
 
 This is one of the best emails I've ever read. MJ will probably have 10 interviews lined up by tomorrow and 3 new gigs by Monday. Let's break this down and see what you can incorporate into your own cover letters & emails:
 

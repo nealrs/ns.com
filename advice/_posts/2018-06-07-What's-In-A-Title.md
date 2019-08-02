@@ -12,7 +12,7 @@ categories: [work, job hunting]
 
 >_By any other word would ~~smell~~ code as ~~sweet~~ 10x_
 
-At ad agencies, _Art Directors_ aren't actually director level employees. In banking, practically everyone is a _VP_, _SVP_, _EVP_, or _GVP_. Sometimes _Business Development_ is a sales job and somtimes it's about partnerships. And of course, anyone can call themselves a _founder_.
+At ad agencies, _Art Directors_ aren't actually "director" level employees. In banking, practically everyone is a _VP_, _SVP_, _EVP_, or _GVP_. Sometimes _Business Development_ is a sales job and sometimes it's about partnerships. And of course, anyone can call themselves a _founder_.
 
 Objectively speaking, titles aren't a good indicator of capability or responsibility.
 

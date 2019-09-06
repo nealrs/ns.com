@@ -5,7 +5,7 @@ title: "Layoffs Suck"
 date: 2017-07-13 10:00:00
 img: https://media.giphy.com/media/3ornk3jn7nZyGNQTJe/giphy.gif
 description: "Six steps for surviving a layoff, from someone who did"
-categories: [job hunting, wellness]
+categories: [job hunting, wellness, layoffs]
 ---
 
 Last week SoundCloud laid off hundreds of engineers & staff around the world. And they're not alone. Layoffs affecting engineers are increasingly common. 

@@ -2,7 +2,7 @@ body{
   max-width:600px;
   margin:auto;
   padding:0;
-  font: 20px 'Vollkorn', serif;
+  font: 20px 'Lora', serif;
   color: #111111;
 }
 
@@ -56,8 +56,8 @@ body{
   height: 100%;
 }
 
-a {color: #11aacc; text-decoration: none; }
-a:active, a:hover {color: #0b768e;}
+a {color: #0077b6; text-decoration: none; }
+a:active, a:hover {color: #03045e;}
 /*a:visited {color: #85144B;}*/
 
 .main{
@@ -72,8 +72,15 @@ a:active, a:hover {color: #0b768e;}
  vertical-align: middle;
 }
 
+.weddingHeader{
+  border:0;
+  border-radius:4px;
+  width: 300px;
+  vertical-align: middle;
+ }
+
 p{
-  line-height: 140%;
+  line-height: 150%;
 }
 
 ul{
@@ -83,7 +90,7 @@ ul{
 
 li{
   margin: .8em 0;
-  line-height: 130%;
+  line-height: 150%;
 }
 
 /*li:before {
@@ -92,7 +99,7 @@ li{
 }*/
 
 .highlight{
-  background-color: #FF4136;
+  background-color: #0074D9;
   padding:4px;
 }
 
@@ -110,15 +117,15 @@ li.intern:before, span.intern{color:#2ECC40;}
 }
 
 .headline{
-  font-family: 'Unica One', sans-serif;
-  text-transform: uppercase;
+  font: 1.4rem 'Merriweather', serif;
+  /*text-transform: uppercase;*/
   text-align: center;
-  color: #c31;
+  color: #001f3f;
 }
 
 h3{
   padding-bottom: .5rem;
-  border-bottom: 1px dotted;
+  /*border-bottom: 1px solid #001f3f;*/
 }
 
 .title:after{

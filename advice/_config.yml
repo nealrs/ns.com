@@ -1,6 +1,6 @@
 # Dependencies
-highligher:       pygments
-markdown: redcarpet
+highligher: pygments
+markdown: kramdown
 redcarpet:
   extensions: ['smart', 'strikethrough']
 
@@ -18,14 +18,14 @@ image:            https://nealshyam.com/img/headshot2.png
 author:
   name:           'Neal Shyam'
   url:            https://nealshyam.com
-  email:          neal@devpost.com
+  email:          nealrs@gmail.com
   twitter:        nealrs
 
 
 plugins: ['jekyll-typogrify']
 
 # Custom vars
-version:          2.1.0
+version:          4.2.0
 
 github:
   repo:           https://github.com/nealrs/ns.com/
